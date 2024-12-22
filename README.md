@@ -48,7 +48,4 @@ Polynomial Ridge Regression achieved the best performance, balancing predictive 
 - Address residual patterns for further accuracy.
 - Explore additional nonlinear models for complex relationships.
 
-## References
-Refer to the report for detailed citations.
-
 ---
